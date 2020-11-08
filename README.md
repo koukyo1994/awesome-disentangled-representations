@@ -6,9 +6,16 @@ Since the original curated list([sootlasten/disentangled-representation-papers](
 
 To respect the original repository, I've added a tag(`[copied]`) in front of the name of the paper which was originally listed in [sootlasten/disentangled-representation-papers](https://github.com/sootlasten/disentangled-representation-papers). I also use the star(`☆`) and `?` notation to show the importance of the paper following the original repository. The judges of the original repository are remained, but `?` may be replaced by my judge.**`?` notation show that I haven't fully read the paper, and `☆` indicates the importance/quality of each paper (the larger the number of the stars, the better the importance/quality is)**.
 
+## 2020
+
+* ☆☆☆ Weakly-Supervised Disentanglement Without Compromises (Feb, Locatello et. al.) [[paper]](https://arxiv.org/abs/2002.02886) [[code]](https://github.com/google-research/disentanglement_lib/blob/master/disentanglement_lib/methods/weak/weak_vae.py)
+
 ## 2019
 
-* ?`[copied]` Are Disentangled Representations Helpful for Abstract Visual Reasoning? (May, Steenkiste et. al.)[[paper]](https://arxiv.org/abs/1905.12506)
+* ? On the Transfer of Inductive Bias from Simulation to the Real World: a New Disentanglement Dataset (Jun, Gondal et. al.) [[paper]](https://arxiv.org/abs/1906.03292)
+* ? On the Fairness of Disentangled Representations (May, Locatello et. al.) [[paper]](https://arxiv.org/abs/1905.13662)
+* ☆☆☆ Variational Autoencoders and Nonlinear ICA: A Unifying Framework (Jul, Khemakhem et. al.) [[paper]](https://arxiv.org/abs/1907.04809)
+* ? `[copied]` Are Disentangled Representations Helpful for Abstract Visual Reasoning? (May, Steenkiste et. al.)[[paper]](https://arxiv.org/abs/1905.12506)
 
 ## 2018
 
