@@ -26,7 +26,7 @@ To respect the original repository, I've added a tag(`[copied]`) in front of the
 * ☆☆ `[copied]` Sequential Attend, Infer, Repeat: Generative Modelling of Moving Objects (Jun, Kosiorek et. al.) [[paper]](https://arxiv.org/abs/1806.01794)
 * ☆☆☆ `[copied]` Neural Scene Representation and Rendering (Jun, Eslami et. al.) [[paper]](https://deepmind.com/research/publications/neural-scene-representation-and-rendering/)
 * ? `[copied]` Image-to-image translation for cross-domain disentanglement (May, Gonzalez-Garcia et. al.) [[paper]](https://arxiv.org/abs/1805.09730)
-* ☆ `[copied]` Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104) [[code]](https://github.com/Schlumberger/joint-vae) [[summary-slide]](./summary-slides/dupont2018learning.pdf)
+* ☆ `[copied]` Learning Disentangled Joint Continuous and Discrete Representations (May, Dupont) [[paper]](https://arxiv.org/abs/1804.00104) [[code]](https://github.com/Schlumberger/joint-vae) [[summary-slide]](./summary-slides/dupont2018learning.pdf) [[thread]](https://github.com/koukyo1994/awesome-disentangled-representations/issues/1)
 * ? `[copied]` DGPose: Disentangled Semi-supervised Deep Generative Models for Human Body Analysis (Apr, Bem et. al.) [[paper]](https://arxiv.org/abs/1804.06364)
 * ? `[copied]` Structured Disentangled Representations (Apr, Esmaeili et. al.) [[paper]](https://arxiv.org/abs/1804.02086)
 * ☆☆ `[copied]` Understanding disentangling in β-VAE (Apr, Burgess et. al.) [[paper]](https://arxiv.org/abs/1804.03599)
