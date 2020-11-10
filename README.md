@@ -15,6 +15,7 @@ To respect the original repository, I've added a tag(`[copied]`) in front of the
 * ? On the Transfer of Inductive Bias from Simulation to the Real World: a New Disentanglement Dataset (Jun, Gondal et. al.) [[paper]](https://arxiv.org/abs/1906.03292)
 * ? On the Fairness of Disentangled Representations (May, Locatello et. al.) [[paper]](https://arxiv.org/abs/1905.13662)
 * ☆☆☆ Variational Autoencoders and Nonlinear ICA: A Unifying Framework (Jul, Khemakhem et. al.) [[paper]](https://arxiv.org/abs/1907.04809)
+* ? Explicitly disentangling image content from translation and rotation with spatial-VAE (Sep, Bepler et. al.) [[paper]](https://arxiv.org/abs/1909.11663) [[code]](https://github.com/tbepler/spatial-VAE)
 * ? `[copied]` Are Disentangled Representations Helpful for Abstract Visual Reasoning? (May, Steenkiste et. al.)[[paper]](https://arxiv.org/abs/1905.12506)
 
 ## 2018
