@@ -93,6 +93,7 @@ To respect the original repository, I've added a tag(`[copied]`) in front of the
 * ☆☆☆ `[copied]` Transforming Auto-encoders (2011, Hinton et. al.) [[paper]](https://www.cs.toronto.edu/~fritz/absps/transauto6.pdf)
 * ☆☆ `[copied]` Learning Factorial Codes By Predictability Minimization (1992, Schmidhuber) [[paper]](https://www.mitpressjournals.org/doi/pdf/10.1162/neco.1992.4.6.863)
 * ☆☆☆ `[copied]` Self-Organization in a Perceptual Network (1988, Linsker) [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=36)
+* ☆☆ Semi-supervised Learning with Deep Generative Models (2014, Kingma et. al.) [[paper]](https://arxiv.org/abs/1406.5298) [[code]](http://github.com/dpkingma/nips14-ssl)
 
 ## Talks
 
