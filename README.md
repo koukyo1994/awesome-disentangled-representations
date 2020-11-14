@@ -71,6 +71,7 @@ To respect the original repository, I've added a tag(`[copied]`) in front of the
 * ☆☆ `[copied]` A Simple Neural Network Module for Relational Reasoning (Jun, Santoro et. al.) [[paper]](https://arxiv.org/abs/1706.01427)
 * ? `[copied]` Learning Disentangled Representations with Semi-Supervised Deep Generative Models  (Jun, Siddharth, et al.)  [[paper]](https://arxiv.org/abs/1706.00400)
 * ? `[copied]` Unsupervised Learning of Disentangled Representations from Video (May, Denton & Birodkar) [[paper]](https://arxiv.org/abs/1705.10915)
+* ? Multi-Level Variational Autoencoder: Learning Disentangled representations from Grouped Observations (May, Bouchacourt et. al.) [[paper]](https://arxiv.org/abs/1705.08841) [[code]](https://github.com/ananyahjha93/multi-level-vae)
 
 ## 2016
 
