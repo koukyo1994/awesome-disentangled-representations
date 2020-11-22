@@ -20,6 +20,7 @@ To respect the original repository, I've added a tag(`[copied]`) in front of the
 
 ## 2018
 
+* ? Discovering Interpretable Representations for Both Deep Generative and Discriminative Models (Jul, Adel et al.) [[paper]](http://proceedings.mlr.press/v80/adel18a.html)
 * ? `[copied]` Hyperprior Induced Unsupervised Disentanglement of Latent Representations (Jan, Ansari and Soh) [[paper]](https://arxiv.org/abs/1809.04497)
 * ? `[copied]` A Spectral Regularizer for Unsupervised Disentanglement (Dec, Ramesh et. al.) [[paper]](https://arxiv.org/abs/1812.01161v1)
 * ? `[copied]` Disentangling Disentanglement  (Dec, Mathieu et. al.) [[paper]](https://arxiv.org/abs/1812.02833v1)
